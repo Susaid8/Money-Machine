@@ -69,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Money-Machine
+
+
+
+-----------------------------------
+
+MVP's
+- Add expenses that have a name and a cost.
+- View how much of their budget is remaining.
+- View how much they've spent so far.
+- Subtract the total budget from expenses.
+
+Project Description
+
+- The Money Machine is a financial budgeting app. It allows me to add my paychecks, stick to a budget, add my expenses    so I can see in real-time how much money I have left to spend/save, and make better decisions about where my money   goes. I know there are applications already available that do this sort of thing but by building it myself, I'm hoping it allows me to budget better.
